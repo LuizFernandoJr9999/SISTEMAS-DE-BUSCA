@@ -48,7 +48,23 @@ O QUE TEM DENTRO DE UM SISTEMA DE BUSCA
    - Python Search API
    - PyLucene (Apache Lucene)
  - Interface web para pesquisa
- -  
-  
+
+3. INSTALAÇÃO DO ANACONDA
+
+4. CARREGAMENTO DE PÁGINAS WEB COM URLLIB3
+
+Instalar urllib3
+
+- Ir em Anaconda - Anaconda propmpt - instalar: conda install urllib3
+
+- Instalado em c:\Users\LuizF\
+ - Abrir a IDE do Spider.
+ - Criar pasta - C:\Usuarios\LuizF\Busca em Textos com Python
+
+5. EXTRAÇÃO DE DADOS DE HTML COM BEAUTIFULSOAP
+
+6.  CRAWLER - BUSCA DE DOCUMENTOS
+
+7.    
   
          
