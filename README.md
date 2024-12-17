@@ -63,8 +63,22 @@ Instalar urllib3
 
 5. EXTRAÇÃO DE DADOS DE HTML COM BEAUTIFULSOAP
 
-6.  CRAWLER - BUSCA DE DOCUMENTOS
+6. CRAWLER - BUSCA DE DOCUMENTOS - PARTE 1
 
-7.    
+   Está apenas lendo a página e listando todos os links da página.
+
+7. CRAWLER - BUSCA DE DOCUMENTOS - PARTE 2    
+
+  Foi feito o tratamento dos links das páginas relacionadas.
   
-         
+8. CRAWLER - BUSCA DE DOCUMENTOS - PARTE 3
+
+9. CRAWLER - BUSCA DE DOCUMENTOS - PARTE 4
+
+10. PRÉ-PROCESSAMENTO DOS TEXTOS - REMOÇÃO DE TAGS HTML
+
+11. INSTALAÇÃO DO MYSQL
+
+12. INDEXAÇÃO - CRIAÇÃO DA BASE DE DADOS
+
+13. 
